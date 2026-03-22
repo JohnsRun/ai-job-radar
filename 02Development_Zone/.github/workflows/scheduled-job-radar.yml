@@ -1,0 +1,40 @@
+name: AI Trend Radar Scheduled Run
+
+on:
+  schedule:
+    - cron: "0 1 * * 1" # Every Monday 09:00 Asia/Shanghai (UTC+8)
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 02Development_Zone/AI-TrendRadar
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install chromium
+
+      - name: Run pipeline
+        run: |
+          python main.py --keyword "AI 产品经理" --max-pages 3
+
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-trend-radar-output
+          path: |
+            02Development_Zone/AI-TrendRadar/output/jobs.csv
+            02Development_Zone/AI-TrendRadar/output/report.md

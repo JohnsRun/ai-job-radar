@@ -1,0 +1,3 @@
+# Local cron example (Mac/Linux)
+# Run every Monday 09:00 and append logs.
+0 9 * * 1 cd /Users/runjsh/Script/AI_Position_Radar/02Development_Zone/AI-TrendRadar && /Users/runjsh/Script/AI_Position_Radar/.venv/bin/python main.py --keyword "AI产品经理" --max-pages 3 >> /Users/runjsh/Script/AI_Position_Radar/04AI_Job_Report/cron.log 2>&1
