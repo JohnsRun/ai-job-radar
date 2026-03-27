@@ -1,194 +1,194 @@
-# 广州 AI产品经理 招聘市场报告（2026年3月27日）
+# 广州 AI产品经理 招聘市场报告（2026年3月28日）
 
 ## 市场仪表盘
 
 | 指标 | 数值 |
 |---|---:|
 | 查询条件 | Top50活跃职位 |
-| 薪资中位数（K/月） | **15.0** |
+| 薪资中位数（K/月） | **20.0** |
 | 查询范围 | `keyword=AI产品经理+广州, city=广州` |
 
 ### 薪资热力条
 
-- `0-20K` : ██████████████████████████████ 82
-- `20K-40K` : ████████████████ 45
-- `40K-60K` : ██ 6
+- `0-20K` : ██████████████████████████████ 7
+- `20K-40K` : █████████████████████ 5
+- `40K-60K` : ████████████ 3
 - `60K+` : 0
 
 ### 薪资分布图
 
 ```mermaid
 pie title 广州 AI产品经理 薪资分布（样本）
-  "0-20K" : 82
-  "20K-40K" : 45
-  "40K-60K" : 6
+  "0-20K" : 7
+  "20K-40K" : 5
+  "40K-60K" : 3
   "60K+" : 0
 ```
 
 ## Top 15 最新岗位
 
 <details>
-<summary><strong>#1 广州骏伯人力资源 - 产品经理岗（广州·天河区，1.5-2.5万）</strong></summary>
+<summary><strong>#1 广州市派客朴食信息科技 - AI产品经理（广州·海珠区，1.8-2.5万）</strong></summary>
 
-- 岗位：[产品经理岗](https://jobs.51job.com/guangzhou-thq/170689205.html?s=sou_sou_soulb&t=0_0&req=4ef495ed9793bc4cf4d68dd4d7e603e6)
-- 公司：广州骏伯人力资源
+- 岗位：[AI产品经理](https://jobs.51job.com/guangzhou-hzq/171262863.html?s=sou_sou_soulb&t=0_0&req=8cd97d5642d2279caaef309d7d1dcd72)
+- 公司：广州市派客朴食信息科技
+- 城市：广州·海珠区
+- 薪资：1.8-2.5万
+- 发布时间：2026-03-25 17:30:35
+
+</details>
+
+<details>
+<summary><strong>#2 普望（上海）信息科技 - AI产品经理（广州，1.8-2.5万）</strong></summary>
+
+- 岗位：[AI产品经理](https://jobs.51job.com/guangzhou/171255716.html?s=sou_sou_soulb&t=0_0&req=8cd97d5642d2279caaef309d7d1dcd72)
+- 公司：普望（上海）信息科技
+- 城市：广州
+- 薪资：1.8-2.5万
+- 发布时间：2026-03-25 14:53:18
+
+</details>
+
+<details>
+<summary><strong>#3 广东省建筑科学研究院集团 - AI产品经理（广州·天河区，1.5-2.5万）</strong></summary>
+
+- 岗位：[AI产品经理](https://jobs.51job.com/guangzhou-thq/168841366.html?s=sou_sou_soulb&t=0_0&req=f1f1a38286b637d3efae0b4c416c3e9b)
+- 公司：广东省建筑科学研究院集团
 - 城市：广州·天河区
 - 薪资：1.5-2.5万
-- 发布时间：2026-03-27 16:20:42
+- 发布时间：2026-03-23 15:51:28
 
 </details>
 
 <details>
-<summary><strong>#2 纽勒智能科技（广州） - UI设计工程师（广州·南沙区，6.5千-1.2万·13薪）</strong></summary>
+<summary><strong>#4 广东健力宝 - ai产品经理（广州·番禺区，1-1.5万·13薪）</strong></summary>
 
-- 岗位：[UI设计工程师](https://jobs.51job.com/guangzhou-nsq/170137143.html?s=sou_sou_soulb&t=0_0&req=22e36d87aaa91e62988f3a5f830f786a)
-- 公司：纽勒智能科技（广州）
-- 城市：广州·南沙区
-- 薪资：6.5千-1.2万·13薪
-- 发布时间：2026-03-27 13:30:00
-
-</details>
-
-<details>
-<summary><strong>#3 广州市迈尔汛科技 - ERP产品经理/实施顾问（广州·黄埔区，9千-1.8万）</strong></summary>
-
-- 岗位：[ERP产品经理/实施顾问](https://jobs.51job.com/guangzhou-hpq/153504046.html?s=sou_sou_soulb&t=0_0&req=5103719cfdba991e37df0751f7399c9a)
-- 公司：广州市迈尔汛科技
-- 城市：广州·黄埔区
-- 薪资：9千-1.8万
-- 发布时间：2026-03-27 11:32:10
-
-</details>
-
-<details>
-<summary><strong>#4 广东南芯医疗科技 - 电商渠道分销产品经理（广州·黄埔区，1-2万）</strong></summary>
-
-- 岗位：[电商渠道分销产品经理](https://jobs.51job.com/guangzhou-hpq/170520887.html?s=sou_sou_soulb&t=0_0&req=b19f623fede5220d08a2235535c01685)
-- 公司：广东南芯医疗科技
-- 城市：广州·黄埔区
-- 薪资：1-2万
-- 发布时间：2026-03-27 11:21:46
-
-</details>
-
-<details>
-<summary><strong>#5 广州国睿科学仪器 - AI智能工作流选品师（广州·白云区，1.2-1.8万）</strong></summary>
-
-- 岗位：[AI智能工作流选品师](https://jobs.51job.com/guangzhou-byq/170611109.html?s=sou_sou_soulb&t=0_0&req=b19f623fede5220d08a2235535c01685)
-- 公司：广州国睿科学仪器
-- 城市：广州·白云区
-- 薪资：1.2-1.8万
-- 发布时间：2026-03-27 10:44:06
-
-</details>
-
-<details>
-<summary><strong>#6 广州国睿科学仪器 - 亚马逊运营（要求985毕业-机器人行业）（广州·天河区，1.2-2万）</strong></summary>
-
-- 岗位：[亚马逊运营（要求985毕业-机器人行业）](https://jobs.51job.com/guangzhou-thq/170902634.html?s=sou_sou_soulb&t=0_0&req=27ee470b937ad494abb3144b4e2b41c2)
-- 公司：广州国睿科学仪器
-- 城市：广州·天河区
-- 薪资：1.2-2万
-- 发布时间：2026-03-27 10:44:05
-
-</details>
-
-<details>
-<summary><strong>#7 京华信息科技 - python开发（广州·天河区，1-2万）</strong></summary>
-
-- 岗位：[python开发](https://jobs.51job.com/guangzhou-thq/163248250.html?s=sou_sou_soulb&t=0_0&req=5103719cfdba991e37df0751f7399c9a)
-- 公司：京华信息科技
-- 城市：广州·天河区
-- 薪资：1-2万
-- 发布时间：2026-03-27 09:28:38
-
-</details>
-
-<details>
-<summary><strong>#8 日升餐厨科技（广东） - 产品经理（广州·番禺区，2-3万·13薪）</strong></summary>
-
-- 岗位：[产品经理](https://jobs.51job.com/guangzhou-pyq/167699702.html?s=sou_sou_soulb&t=0_0&req=5103719cfdba991e37df0751f7399c9a)
-- 公司：日升餐厨科技（广东）
+- 岗位：[ai产品经理](https://jobs.51job.com/guangzhou-pyq/171200228.html?s=sou_sou_soulb&t=0_0&req=8cd97d5642d2279caaef309d7d1dcd72)
+- 公司：广东健力宝
 - 城市：广州·番禺区
-- 薪资：2-3万·13薪
-- 发布时间：2026-03-27 08:56:06
+- 薪资：1-1.5万·13薪
+- 发布时间：2026-03-23 11:53:24
 
 </details>
 
 <details>
-<summary><strong>#9 广州九加一电子科技 - 产品经理（广州·白云区，2-3万）</strong></summary>
+<summary><strong>#5 广东省出版集团数字出版 - AI产品经理（广州·天河区，13-18万/年）</strong></summary>
 
-- 岗位：[产品经理](https://jobs.51job.com/guangzhou-byq/167755765.html?s=sou_sou_soulb&t=0_0&req=186c7f96dda6753b5e035e513b69a666)
-- 公司：广州九加一电子科技
-- 城市：广州·白云区
-- 薪资：2-3万
-- 发布时间：2026-03-27 08:46:30
-
-</details>
-
-<details>
-<summary><strong>#10 广州象九数字传媒 - 人工智能训练师推广大使（广州，1-2万）</strong></summary>
-
-- 岗位：[人工智能训练师推广大使](https://jobs.51job.com/guangzhou/171265122.html?s=sou_sou_soulb&t=0_0&req=e8033eed6dd48be4e1cca94973c62b08)
-- 公司：广州象九数字传媒
-- 城市：广州
-- 薪资：1-2万
-- 发布时间：2026-03-27 04:06:22
+- 岗位：[AI产品经理](https://jobs.51job.com/guangzhou-thq/171128219.html?s=sou_sou_soulb&t=0_0&req=9acde0936dda49685d6f2b15245ea885)
+- 公司：广东省出版集团数字出版
+- 城市：广州·天河区
+- 薪资：13-18万/年
+- 发布时间：2026-03-20 15:33:51
 
 </details>
 
 <details>
-<summary><strong>#11 新讯数字科技（杭州） - 产品经理（沃音乐）（广州·天河区，1-1.5万）</strong></summary>
+<summary><strong>#6 凯通科技 - AI产品经理（广州）（广州·黄埔区，1.8-3万）</strong></summary>
 
-- 岗位：[产品经理（沃音乐）](https://jobs.51job.com/guangzhou-thq/171286686.html?s=sou_sou_soulb&t=0_0&req=e8033eed6dd48be4e1cca94973c62b08)
-- 公司：新讯数字科技（杭州）
+- 岗位：[AI产品经理（广州）](https://jobs.51job.com/guangzhou-hpq/171098522.html?s=sou_sou_soulb&t=0_0&req=8cd97d5642d2279caaef309d7d1dcd72)
+- 公司：凯通科技
+- 城市：广州·黄埔区
+- 薪资：1.8-3万
+- 发布时间：2026-03-17 15:16:40
+
+</details>
+
+<details>
+<summary><strong>#7 广州凡拓数字创意科技 - AI产品经理（具身机器人方向优先）（广州·天河区，5-6万·16薪）</strong></summary>
+
+- 岗位：[AI产品经理（具身机器人方向优先）](https://jobs.51job.com/guangzhou-thq/169262602.html?s=sou_sou_soulb&t=0_0&req=c135dcf5023b2a7844be263a5359d49d)
+- 公司：广州凡拓数字创意科技
+- 城市：广州·天河区
+- 薪资：5-6万·16薪
+- 发布时间：2026-03-17 10:53:54
+
+</details>
+
+<details>
+<summary><strong>#8 广东超腾信息科技 - AI产品经理（外呼方向）自研（广州·天河区，1-1.5万）</strong></summary>
+
+- 岗位：[AI产品经理（外呼方向）自研](https://jobs.51job.com/guangzhou-thq/170988985.html?s=sou_sou_soulb&t=0_0&req=c135dcf5023b2a7844be263a5359d49d)
+- 公司：广东超腾信息科技
 - 城市：广州·天河区
 - 薪资：1-1.5万
-- 发布时间：2026-03-26 18:01:08
+- 发布时间：2026-03-11 14:39:57
 
 </details>
 
 <details>
-<summary><strong>#12 广东慧谷人力资源管理咨询 - 产品总监（广州·番禺区，3-4万）</strong></summary>
+<summary><strong>#9 广东超腾信息科技 - AI产品经理（智能音箱方向）双休（广州·天河区，1-1.5万）</strong></summary>
 
-- 岗位：[产品总监](https://jobs.51job.com/guangzhou-pyq/171148452.html?s=sou_sou_soulb&t=0_0&req=3283f633829d8fd25b362ae7fce26eeb)
-- 公司：广东慧谷人力资源管理咨询
-- 城市：广州·番禺区
-- 薪资：3-4万
-- 发布时间：2026-03-26 17:46:04
-
-</details>
-
-<details>
-<summary><strong>#13 广东广信通信服务 - 产品经理（广州·天河区，1.4-1.6万）</strong></summary>
-
-- 岗位：[产品经理](https://jobs.51job.com/guangzhou-thq/171271934.html?s=sou_sou_soulb&t=0_0&req=e8033eed6dd48be4e1cca94973c62b08)
-- 公司：广东广信通信服务
+- 岗位：[AI产品经理（智能音箱方向）双休](https://jobs.51job.com/guangzhou-thq/170970399.html?s=sou_sou_soulb&t=0_0&req=c6e3244e7f4202d3e369aae8cab8769d)
+- 公司：广东超腾信息科技
 - 城市：广州·天河区
-- 薪资：1.4-1.6万
-- 发布时间：2026-03-26 10:52:40
+- 薪资：1-1.5万
+- 发布时间：2026-03-10 17:56:41
 
 </details>
 
 <details>
-<summary><strong>#14 广州南翼信息科技 - 安卓开发工程师（广州，8千-1.2万）</strong></summary>
+<summary><strong>#10 广州海颐软件 - AI产品经理-yfzx（广州·黄埔区，1.5-2.5万）</strong></summary>
 
-- 岗位：[安卓开发工程师](https://jobs.51job.com/guangzhou/170950530.html?s=sou_sou_soulb&t=0_0&req=7f757c0bc20644bb4a48a34fe68ea97d)
-- 公司：广州南翼信息科技
-- 城市：广州
-- 薪资：8千-1.2万
-- 发布时间：2026-03-26 09:19:15
+- 岗位：[AI产品经理-yfzx](https://jobs.51job.com/guangzhou-hpq/168794145.html?s=sou_sou_soulb&t=0_0&req=ce36614eb3eb441b98624e490731bf4b)
+- 公司：广州海颐软件
+- 城市：广州·黄埔区
+- 薪资：1.5-2.5万
+- 发布时间：2026-02-27 14:12:22
 
 </details>
 
 <details>
-<summary><strong>#15 广州市贤人汇国际贸易 - 化工专业销售顾问（广州·海珠区，6.5千-1.3万）</strong></summary>
+<summary><strong>#11 广州宏健智能信息工程 - 医疗AI产品经理（影像AI/医技AI｜医院ToB）（广州·黄埔区，3-5万）</strong></summary>
 
-- 岗位：[化工专业销售顾问](https://jobs.51job.com/guangzhou-hzq/170882566.html?s=sou_sou_soulb&t=0_0&req=27ee470b937ad494abb3144b4e2b41c2)
-- 公司：广州市贤人汇国际贸易
+- 岗位：[医疗AI产品经理（影像AI/医技AI｜医院ToB）](https://jobs.51job.com/guangzhou-hpq/170655998.html?s=sou_sou_soulb&t=0_0&req=f1f1a38286b637d3efae0b4c416c3e9b)
+- 公司：广州宏健智能信息工程
+- 城市：广州·黄埔区
+- 薪资：3-5万
+- 发布时间：2026-02-25 11:01:33
+
+</details>
+
+<details>
+<summary><strong>#12 上海以稀文化传播 - AI产品经理（广州·白云区，1.2-1.6万）</strong></summary>
+
+- 岗位：[AI产品经理](https://jobs.51job.com/guangzhou-byq/170309976.html?s=sou_sou_soulb&t=0_0&req=8af509f19213b3c834b5cde02e4290c6)
+- 公司：上海以稀文化传播
+- 城市：广州·白云区
+- 薪资：1.2-1.6万
+- 发布时间：2026-01-16 20:45:44
+
+</details>
+
+<details>
+<summary><strong>#13 广州创美药业 - AI产品经理（广州·南沙区，1-1.5万）</strong></summary>
+
+- 岗位：[AI产品经理](https://jobs.51job.com/guangzhou-nsq/170091544.html?s=sou_sou_soulb&t=0_0&req=570fc78f697c9f82ace70f638f6158bd)
+- 公司：广州创美药业
+- 城市：广州·南沙区
+- 薪资：1-1.5万
+- 发布时间：2026-01-04 10:44:51
+
+</details>
+
+<details>
+<summary><strong>#14 广州广日 - AI产品经理（广州·海珠区，1.2-2万·14薪）</strong></summary>
+
+- 岗位：[AI产品经理](https://jobs.51job.com/guangzhou-hzq/169908874.html?s=sou_sou_soulb&t=0_0&req=570fc78f697c9f82ace70f638f6158bd)
+- 公司：广州广日
 - 城市：广州·海珠区
-- 薪资：6.5千-1.3万
-- 发布时间：2026-03-26 09:06:31
+- 薪资：1.2-2万·14薪
+- 发布时间：2025-12-19 16:27:04
+
+</details>
+
+<details>
+<summary><strong>#15 广州长嘉电子 - ai产品经理（广州·南沙区，3-5万·14薪）</strong></summary>
+
+- 岗位：[ai产品经理](https://jobs.51job.com/guangzhou-nsq/169625066.html?s=sou_sou_soulb&t=0_0&req=05b395fb001a136e36e5cc2126046b6c)
+- 公司：广州长嘉电子
+- 城市：广州·南沙区
+- 薪资：3-5万·14薪
+- 发布时间：2025-12-03 11:27:36
 
 </details>
 
@@ -196,5 +196,5 @@ pie title 广州 AI产品经理 薪资分布（样本）
 ## 🤖 AI深度分析（MCP增强）
 
 - 高频技能 Top5: 无
-- AI相关岗位占比: 20.0%
+- AI相关岗位占比: 0.0%
 - 常见工具 Top3: 无
