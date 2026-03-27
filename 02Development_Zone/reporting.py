@@ -18,6 +18,10 @@ def _report_filename() -> str:
     return f"Report_{datetime.now().strftime('%Y%m%d')}.md"
 
 
+def _csv_filename() -> str:
+    return f"jobs_{datetime.now().strftime('%Y%m%d')}.csv"
+
+
 def _build_heat_bar(value: int, max_value: int) -> str:
     if value <= 0 or max_value <= 0:
         return "0"
@@ -80,7 +84,7 @@ def generate_report(
     base = summarize_base_metrics(cleaned_jobs)
     enhanced = summarize_enhancement(enhanced_jobs)
 
-    csv_path = output_dir / "jobs.csv"
+    csv_path = output_dir / _csv_filename()
     report_path = output_dir / _report_filename()
     _write_csv(enhanced_jobs, csv_path)
 

@@ -21,7 +21,7 @@ USER_AGENT = (
 )
 
 DEFAULT_FALLBACK_SNAPSHOT = (
-    Path(__file__).resolve().parents[2] / "00Ad_Hoc" / "51job_search_latest_323.json"
+    Path(__file__).resolve().parents[1] / "00Ad_Hoc" / "51job_search_latest_323.json"
 )
 
 

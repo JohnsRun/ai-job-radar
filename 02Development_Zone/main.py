@@ -15,7 +15,7 @@ def run_pipeline(keyword: str = "AI产品经理+广州", max_pages: int = 10) ->
     cleaned_jobs = process(collector_result.jobs)
     enhanced_jobs = mcp_enhance(cleaned_jobs)
 
-    output_dir = Path(__file__).resolve().parents[2] / "04AI_Job_Report"
+    output_dir = Path(__file__).resolve().parents[1] / "04AI_Job_Report"
     report_result = generate_report(
         cleaned_jobs,
         enhanced_jobs,
