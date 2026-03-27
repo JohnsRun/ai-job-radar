@@ -100,8 +100,7 @@ model: GPT-5.3-Codex
 - 在排序前先剔除与关键词无关岗位，过滤后再做 Top15。
 - 固定关键词为 `AI产品经理+广州`，过滤规则：
   - 城市必须为广州（岗位城市字段或区域字段匹配“广州”）。
-  - 标题至少命中 1 个 AI 词：`AI|人工智能|大模型|LLM|智能`。
-  - 且至少命中 1 个 PM 词：`PM|产品经理|Product Manager|Owner`。
+  - 标题至少命中 1 个短语：`AI PM|AI 产品经理|AI builder|AI Owner|人工智能产品经理|LLM产品经理|AI Header|AI Lead`。
 - 过滤结果必须记录：
   - `raw_jobs`（过滤前）
   - `relevant_jobs`（过滤后）

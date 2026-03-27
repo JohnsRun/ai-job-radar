@@ -6,8 +6,35 @@ from statistics import median
 from typing import Any, Dict, List, Optional, Tuple
 
 
+TITLE_RELEVANCE_TERMS = [
+    "AI PM",
+    "AI 产品经理",
+    "AI builder",
+    "AI Owner",
+    "人工智能产品经理",
+    "LLM产品经理",
+    "AI Header",
+    "AI Lead",
+]
+
+
 def _is_guangzhou_city(city: str) -> bool:
     return "广州" in (city or "")
+
+
+def _matches_title_relevance(job_title: str) -> bool:
+    title = (job_title or "").strip().lower()
+    if not title:
+        return False
+
+    title_norm = " ".join(title.split())
+    title_compact = "".join(title.split())
+    for term in TITLE_RELEVANCE_TERMS:
+        term_norm = " ".join(term.lower().split())
+        term_compact = "".join(term.lower().split())
+        if term_norm in title_norm or term_compact in title_compact:
+            return True
+    return False
 
 
 def parse_salary_k_per_month(salary_raw: str) -> Tuple[Optional[float], Optional[float], Optional[float]]:
@@ -94,6 +121,10 @@ def process(jobs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 
         title_lower = item["job_title"].lower()
         if "实习" in item["job_title"] or "intern" in title_lower:
+            continue
+
+        # Keep only records whose title matches one of the configured relevance phrases.
+        if not _matches_title_relevance(item["job_title"]):
             continue
 
         key = (item["job_title"].lower(), item["company_name"].lower(), item["job_url"].lower())
